@@ -1,3 +1,13 @@
 ##Request input from a user and prompt the user to input a number
 ##Demonstrate the use of +, -, *, /, and % 
 ##Submit a pull request. One will be chosen to be merged into the main branch. 
+
+x = input("enter first number:")
+y = input("enter second number:")
+x = int(x)
+y = int(y)
+print(x + y)
+print(x - y)
+print(x * y)
+print(x / y)
+print(x % y)
