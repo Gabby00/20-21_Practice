@@ -6,3 +6,7 @@ if "Your Way" > "Their Way":
 else:
   print("Thier file will be merged")
 '''
+if "You are my fire" > "The one desire":
+    print("Believe when I say")
+else:
+    print("I want it that way")
